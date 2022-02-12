@@ -13,6 +13,7 @@ public class DogDoor {
 
     public void close() {
         System.out.println("The dog door closes.");
+        open = false;
     }
 
     public boolean isOpen() {
