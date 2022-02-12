@@ -25,3 +25,4 @@
   - use case is in everyday words, not code-level detains
   - use case help, but not directly tell you how to write code
   - requirement covers steps in use case
+  - use case reveal incomplete and missing requirement
