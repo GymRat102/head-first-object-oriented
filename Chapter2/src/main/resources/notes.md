@@ -1,0 +1,27 @@
+### Simple implementation
+- worked, but has a few problems
+- Need to collect **_requirements_**
+  - sometimes customer even don't know, need to ask question
+  - show work progress
+  - requirements also include **what might go wrong**
+  - consideration includes...**people who use the system**
+- use case
+  - definition: the steps system make to make things happen
+    - e.g. user lets dog go outside, do its business, and go back
+    - key elements:
+      - system
+      - end users
+      - interaction
+      - specific goals
+      - one or more scenarios
+    - three parts:
+      - clear value
+      - Start and stop
+      - external initiator
+  - alternative path
+    - extra steps to handle _what might go wrong_
+- other points
+  - **a use case** is **a particular goad**
+  - use case is in everyday words, not code-level detains
+  - use case help, but not directly tell you how to write code
+  - requirement covers steps in use case
