@@ -26,3 +26,4 @@
   - use case help, but not directly tell you how to write code
   - requirement covers steps in use case
   - use case reveal incomplete and missing requirement
+  - most user cases have different scenarios, sharing same user goal
